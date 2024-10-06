@@ -2740,3 +2740,1136 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.06-05.53.03:064][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 14.0 sec)
 [2024.10.06-05.53.03:072][482]AssetCheck: New page: Asset Save: part2level
 [2024.10.06-05.53.03:072][482]LogContentValidation: Display: Validating /Script/Engine.World /Game/part2level.part2level
+[2024.10.06-05.55.41:845][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward
+[2024.10.06-05.55.41:845][295]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-05.55.49:501][821]LogSlate: Window 'BP_Reward' being destroyed
+[2024.10.06-05.55.52:132][ 22]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-05.55.52:132][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-05.55.58:303][553]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.55.58:303][553]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.55.58:305][553]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_0
+[2024.10.06-05.55.58:307][553]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_0
+[2024.10.06-05.55.58:801][581]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.55.58:801][581]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.55.58:804][581]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_1
+[2024.10.06-05.55.58:805][581]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_1
+[2024.10.06-05.56.01:143][834]Cmd: EDIT COPY
+[2024.10.06-05.56.01:888][918]Cmd: EDIT PASTE
+[2024.10.06-05.56.07:309][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.56.07:309][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.56.07:310][432]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_3
+[2024.10.06-05.56.07:312][432]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_3
+[2024.10.06-05.56.11:029][809]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.56.11:029][809]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.56.11:031][809]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_4
+[2024.10.06-05.56.11:033][809]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_4
+[2024.10.06-05.56.14:006][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.56.14:007][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.56.14:009][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_5
+[2024.10.06-05.56.14:011][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_5
+[2024.10.06-05.56.36:463][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-05.56.36:463][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-05.56.36:463][ 65]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_0
+[2024.10.06-05.56.36:481][ 65]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a) ...
+[2024.10.06-05.56.36:698][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/T_EnvTile_Ceramic_ARM.T_EnvTile_Ceramic_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.36:745][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_ARM.T_EnvTile_Stucco_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.36:755][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_BC.T_EnvTile_Stucco_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.37:046][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/T_EnvTile_Ceramic_N.T_EnvTile_Ceramic_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.37:902][ 65]LogStaticMesh: Display: Building static mesh MA_Building_1x1a...
+[2024.10.06-05.56.38:154][ 65]LogStaticMesh: Adjacency [0.00s], tris: 15753, UVs 2
+[2024.10.06-05.56.38:190][ 65]LogStaticMesh: Clustering [0.04s]. Ratio: 1.008065
+[2024.10.06-05.56.38:192][ 65]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-05.56.38:756][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_RGB.T_EnvTile_Stucco_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.38:768][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_N.T_EnvTile_Stucco_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.38:947][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Wood_BC.T_EnvTile_Wood_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.38:967][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Wood_ARM.T_EnvTile_Wood_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.39:053][ 65]LogStaticMesh: Reduce [0.86s]
+[2024.10.06-05.56.39:573][ 65]LogStaticMesh: Fallback 0/5 [0.52s], num tris: 10567
+[2024.10.06-05.56.40:181][ 65]LogStaticMesh: Fallback 1/5 [0.61s], num tris: 5283
+[2024.10.06-05.56.40:655][ 65]LogStaticMesh: Fallback 2/5 [0.47s], num tris: 2640
+[2024.10.06-05.56.41:093][ 65]LogStaticMesh: Fallback 3/5 [0.44s], num tris: 1319
+[2024.10.06-05.56.41:237][ 65]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Wood_N.T_EnvTile_Wood_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-05.56.41:382][ 65]LogStaticMesh: Fallback 4/5 [0.29s], num tris: 660
+[2024.10.06-05.56.41:402][ 65]LogStaticMesh: ConstrainClusters:
+[2024.10.06-05.56.41:402][ 65]LogStaticMesh:   Input: 260 Clusters, 32704 Triangles and 34656 Vertices
+[2024.10.06-05.56.41:402][ 65]LogStaticMesh:   Output without splits: 260 Clusters, 32704 Triangles and 34814 Vertices
+[2024.10.06-05.56.41:402][ 65]LogStaticMesh:   Output with splits: 264 Clusters, 32704 Triangles and 34814 Vertices
+[2024.10.06-05.56.41:404][ 65]LogStaticMesh: Material Stats - Unique Materials: 9, Fast Path Clusters: 258, Slow Path Clusters: 6, 1 Material: 209, 2 Materials: 36, 3 Materials: 13, At Least 4 Materials: 6
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh: WritePages:
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh:   Root: GPU size: 30996 bytes. 1 Pages. 30996.000 bytes per page (94.592% utilization).
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh:   Streaming: GPU size: 549492 bytes. 5 Pages (5 with relative encoding). 109898.398 bytes per page (83.846% utilization).
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh:   Page data disk size: 408460 bytes. Fixup data size: 1784 bytes.
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh:   Total GPU size: 580488 bytes, Total disk size: 410244 bytes.
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh: Encode [0.04s]
+[2024.10.06-05.56.41:418][ 65]LogStaticMesh: Nanite build [3.23s]
+
+[2024.10.06-05.56.41:463][ 65]LogStaticMesh: Built static mesh [3.56s] /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: ================================================
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Total job queries 216, among them cache hits 29 (13.43%)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Tracking 179 distinct input hashes that result in 133 distinct outputs (74.30%)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Shaders Compiled: 80
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Jobs assigned 84, completed 80 (95.24%)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Average time worker was idle: 121.43 s
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Time job spent in pending queue: average 5.66 s, longest 35.80 s
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Job execution time: average 16.02 s, max 66.02 s
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Job life time (pending + execution): average 21.96 s, max 68.18
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.71 s
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.68 jobs/batch
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Average processing rate: 1.04 jobs/sec
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Total thread time: 196.77 s
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Total thread preprocess time: 4.66 s
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Percentage time preprocessing: 2.37%
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Effective parallelization: 2.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 7.54 sec, max 7.54 sec, min 7.54 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.73 sec, max 10.05 sec, min 3.28 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.07 sec, max 6.07 sec, min 6.07 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 6.06 sec, max 6.06 sec, min 6.06 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 58.12% of total time (compiled   17 times, average 6.73 sec, max 10.05 sec, min 3.28 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 4.17% of total time (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.91% of total time (compiled    9 times, average 0.86 sec, max 0.99 sec, min 0.78 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.83% of total time (compiled    1 times, average 7.54 sec, max 7.54 sec, min 7.54 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.72% of total time (compiled    9 times, average 0.81 sec, max 1.15 sec, min 0.67 sec)
+[2024.10.06-05.56.41:588][ 65]LogShaderCompilers: Display: ================================================
+[2024.10.06-05.56.48:116][655]LogMeshUtilities: Finished distance field build in 6.6s - 105x98x126 sparse distance field, 1.5Mb total, 0.0Mb always loaded, 67% occupied, 5251 triangles, MA_Building_1x1a
+[2024.10.06-05.57.51:164][798]LogStaticMesh: Display: Building static mesh MA_Building_2x2_Patio...
+[2024.10.06-05.57.51:360][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio
+[2024.10.06-05.57.51:360][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio
+[2024.10.06-05.57.51:360][810]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_2
+[2024.10.06-05.57.51:377][810]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio) ...
+[2024.10.06-05.57.51:621][810]LogStaticMesh: Adjacency [0.01s], tris: 46695, UVs 2
+[2024.10.06-05.57.51:713][810]LogStaticMesh: Clustering [0.09s]. Ratio: 1.016438
+[2024.10.06-05.57.51:721][810]LogStaticMesh: Leaves [0.01s]
+[2024.10.06-05.57.52:943][810]LogStaticMesh: Reduce [1.22s]
+[2024.10.06-05.57.53:875][810]LogStaticMesh: Fallback 0/5 [0.93s], num tris: 22823
+[2024.10.06-05.57.54:307][810]LogStaticMesh: Fallback 1/5 [0.43s], num tris: 11410
+[2024.10.06-05.57.54:652][810]LogStaticMesh: Fallback 2/5 [0.35s], num tris: 5705
+[2024.10.06-05.57.55:055][810]LogStaticMesh: Fallback 3/5 [0.40s], num tris: 2851
+[2024.10.06-05.57.55:352][810]LogStaticMesh: Fallback 4/5 [0.30s], num tris: 1425
+[2024.10.06-05.57.55:380][810]LogStaticMesh: ConstrainClusters:
+[2024.10.06-05.57.55:380][810]LogStaticMesh:   Input: 758 Clusters, 95378 Triangles and 92474 Vertices
+[2024.10.06-05.57.55:380][810]LogStaticMesh:   Output without splits: 758 Clusters, 95378 Triangles and 93124 Vertices
+[2024.10.06-05.57.55:380][810]LogStaticMesh:   Output with splits: 763 Clusters, 95378 Triangles and 93131 Vertices
+[2024.10.06-05.57.55:381][810]LogStaticMesh: Material Stats - Unique Materials: 10, Fast Path Clusters: 750, Slow Path Clusters: 13, 1 Material: 618, 2 Materials: 110, 3 Materials: 22, At Least 4 Materials: 13
+[2024.10.06-05.57.55:408][810]LogStaticMesh: WritePages:
+[2024.10.06-05.57.55:408][810]LogStaticMesh:   Root: GPU size: 29776 bytes. 1 Pages. 29776.000 bytes per page (90.869% utilization).
+[2024.10.06-05.57.55:408][810]LogStaticMesh:   Streaming: GPU size: 1535972 bytes. 12 Pages (12 with relative encoding). 127997.664 bytes per page (97.654% utilization).
+[2024.10.06-05.57.55:408][810]LogStaticMesh:   Page data disk size: 1118528 bytes. Fixup data size: 5104 bytes.
+[2024.10.06-05.57.55:408][810]LogStaticMesh:   Total GPU size: 1565748 bytes, Total disk size: 1123632 bytes.
+[2024.10.06-05.57.55:408][810]LogStaticMesh: Encode [0.06s]
+[2024.10.06-05.57.55:408][810]LogStaticMesh: Nanite build [3.69s]
+
+[2024.10.06-05.57.55:514][810]LogStaticMesh: Built static mesh [4.35s] /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio
+[2024.10.06-05.57.57:917][898]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio
+[2024.10.06-05.57.57:917][898]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio
+[2024.10.06-05.57.57:919][898]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.MA_Building_2x2_Patio as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_3
+[2024.10.06-05.58.01:581][230]LogMeshUtilities: Finished distance field build in 6.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 15565 triangles, MA_Building_2x2_Patio
+[2024.10.06-05.58.07:810][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.58.07:810][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.58.07:812][624]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_6
+[2024.10.06-05.58.07:814][624]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_6
+[2024.10.06-05.58.10:767][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.58.10:769][912]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.StaticMeshActor_3
+[2024.10.06-05.58.10:780][912]EditorErrors: New page: Actor Reattachment
+[2024.10.06-05.58.18:980][645]Cmd: TRANSACTION UNDO
+[2024.10.06-05.58.18:980][645]LogEditorTransaction: Undo Move Elements
+[2024.10.06-05.58.20:418][736]Cmd: TRANSACTION UNDO
+[2024.10.06-05.58.20:418][736]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-05.58.20:950][791]Cmd: TRANSACTION UNDO
+[2024.10.06-05.58.20:950][791]LogEditorTransaction: Undo Move Elements
+[2024.10.06-05.58.21:459][844]Cmd: TRANSACTION UNDO
+[2024.10.06-05.58.21:459][844]LogEditorTransaction: Undo Replace Actor(s)
+[2024.10.06-05.58.27:286][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.58.27:286][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-05.58.27:289][319]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_8
+[2024.10.06-05.58.27:291][319]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_8
+[2024.10.06-06.00.08:650][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C
+[2024.10.06-06.00.08:650][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C
+[2024.10.06-06.00.08:650][866]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint as actor: TriggerBox_Blueprint_C /Game/part2level.part2level:PersistentLevel.TriggerBox_Blueprint_C_0
+[2024.10.06-06.00.08:651][866]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint as actor: TriggerBox_Blueprint_C /Game/part2level.part2level:PersistentLevel.TriggerBox_Blueprint_C_0
+[2024.10.06-06.00.14:057][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C
+[2024.10.06-06.00.14:057][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C
+[2024.10.06-06.00.14:059][205]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint as actor: TriggerBox_Blueprint_C /Game/part2level.part2level:PersistentLevel.TriggerBox_Blueprint_C_1
+[2024.10.06-06.00.14:059][205]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint as actor: TriggerBox_Blueprint_C /Game/part2level.part2level:PersistentLevel.TriggerBox_Blueprint_C_1
+[2024.10.06-06.00.33:960][959]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer_C
+[2024.10.06-06.00.33:960][959]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer_C
+[2024.10.06-06.00.33:963][959]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/part2level.part2level:PersistentLevel.BP_Pursuer_C_0
+[2024.10.06-06.00.33:965][959]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/part2level.part2level:PersistentLevel.BP_Pursuer_C_0
+[2024.10.06-06.00.37:292][139]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer_C
+[2024.10.06-06.00.37:292][139]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer_C
+[2024.10.06-06.00.37:297][139]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/part2level.part2level:PersistentLevel.BP_Pursuer_C_1
+[2024.10.06-06.00.37:299][139]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/part2level.part2level:PersistentLevel.BP_Pursuer_C_1
+[2024.10.06-06.00.37:500][141]LogShaderCompilers: Display: ================================================
+[2024.10.06-06.00.37:500][141]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.06-06.00.37:500][141]LogShaderCompilers: Display: Total job queries 228, among them cache hits 37 (16.23%)
+[2024.10.06-06.00.37:500][141]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 138 distinct outputs (72.25%)
+[2024.10.06-06.00.37:500][141]LogShaderCompilers: Display: RAM used: 0.53 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Shaders Compiled: 88
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Jobs assigned 88, completed 88 (100.00%)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Average time worker was idle: 111.72 s
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Time job spent in pending queue: average 5.53 s, longest 35.80 s
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Job execution time: average 14.74 s, max 66.02 s
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Job life time (pending + execution): average 20.27 s, max 68.18
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.81 s
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.63 jobs/batch
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Average processing rate: 1.09 jobs/sec
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Total thread time: 208.19 s
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Total thread preprocess time: 5.85 s
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Percentage time preprocessing: 2.81%
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 7.54 sec, max 7.54 sec, min 7.54 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.73 sec, max 10.05 sec, min 3.28 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.07 sec, max 6.07 sec, min 6.07 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 6.06 sec, max 6.06 sec, min 6.06 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 54.93% of total time (compiled   17 times, average 6.73 sec, max 10.05 sec, min 3.28 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.53% of total time (compiled   11 times, average 1.05 sec, max 2.02 sec, min 0.78 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.28% of total time (compiled   11 times, average 1.00 sec, max 1.91 sec, min 0.67 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 3.94% of total time (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.62% of total time (compiled    1 times, average 7.54 sec, max 7.54 sec, min 7.54 sec)
+[2024.10.06-06.00.37:501][141]LogShaderCompilers: Display: ================================================
+[2024.10.06-06.01.06:568][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-06.01.06:568][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-06.01.06:568][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_6
+[2024.10.06-06.01.07:837][290]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-06.01.07:837][290]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a
+[2024.10.06-06.01.07:838][290]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1a.MA_Building_1x1a as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_8
+[2024.10.06-06.01.23:513][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack
+[2024.10.06-06.01.23:513][494]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.01.26:476][701]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.01.26:476][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.01.29:845][ 17]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack_C
+[2024.10.06-06.01.29:845][ 17]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack_C
+[2024.10.06-06.01.29:847][ 17]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/part2level.part2level:PersistentLevel.BP_HealthPack_C_0
+[2024.10.06-06.01.29:849][ 17]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/part2level.part2level:PersistentLevel.BP_HealthPack_C_0
+[2024.10.06-06.01.31:006][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack_C
+[2024.10.06-06.01.31:006][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack_C
+[2024.10.06-06.01.31:010][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/part2level.part2level:PersistentLevel.BP_HealthPack_C_1
+[2024.10.06-06.01.31:012][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/part2level.part2level:PersistentLevel.BP_HealthPack_C_1
+[2024.10.06-06.03.05:903][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.03.05:903][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.03.05:904][164]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_9
+[2024.10.06-06.03.05:906][164]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_9
+[2024.10.06-06.03.06:541][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.03.06:541][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.03.06:544][200]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_10
+[2024.10.06-06.03.06:546][200]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_10
+[2024.10.06-06.03.20:481][ 95]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.03.20:481][ 95]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.03.20:483][ 95]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_11
+[2024.10.06-06.03.20:485][ 95]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_11
+[2024.10.06-06.04.21:104][768]LogStaticMesh: Display: Building static mesh MA_Building_1x1b...
+[2024.10.06-06.04.21:302][769]LogStaticMesh: Adjacency [0.00s], tris: 14297, UVs 2
+[2024.10.06-06.04.21:330][769]LogStaticMesh: Clustering [0.03s]. Ratio: 1.008929
+[2024.10.06-06.04.21:332][769]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.04.21:402][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.04.21:402][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.04.21:402][774]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_10
+[2024.10.06-06.04.21:419][774]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b) ...
+[2024.10.06-06.04.21:806][774]LogStaticMesh: Reduce [0.47s]
+[2024.10.06-06.04.22:121][774]LogStaticMesh: Fallback 0/5 [0.31s], num tris: 9838
+[2024.10.06-06.04.22:472][774]LogStaticMesh: Fallback 1/5 [0.35s], num tris: 4918
+[2024.10.06-06.04.22:750][774]LogStaticMesh: Fallback 2/5 [0.28s], num tris: 2459
+[2024.10.06-06.04.23:017][774]LogStaticMesh: Fallback 3/5 [0.27s], num tris: 1228
+[2024.10.06-06.04.23:249][774]LogStaticMesh: Fallback 4/5 [0.23s], num tris: 613
+[2024.10.06-06.04.23:260][774]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.04.23:260][774]LogStaticMesh:   Input: 231 Clusters, 29157 Triangles and 30713 Vertices
+[2024.10.06-06.04.23:260][774]LogStaticMesh:   Output without splits: 231 Clusters, 29157 Triangles and 30882 Vertices
+[2024.10.06-06.04.23:260][774]LogStaticMesh:   Output with splits: 236 Clusters, 29157 Triangles and 30889 Vertices
+[2024.10.06-06.04.23:261][774]LogStaticMesh: Material Stats - Unique Materials: 7, Fast Path Clusters: 230, Slow Path Clusters: 6, 1 Material: 201, 2 Materials: 27, 3 Materials: 2, At Least 4 Materials: 6
+[2024.10.06-06.04.23:270][774]LogStaticMesh: WritePages:
+[2024.10.06-06.04.23:270][774]LogStaticMesh:   Root: GPU size: 30784 bytes. 1 Pages. 30784.000 bytes per page (93.945% utilization).
+[2024.10.06-06.04.23:270][774]LogStaticMesh:   Streaming: GPU size: 482636 bytes. 4 Pages (4 with relative encoding). 120659.000 bytes per page (92.056% utilization).
+[2024.10.06-06.04.23:270][774]LogStaticMesh:   Page data disk size: 365952 bytes. Fixup data size: 1656 bytes.
+[2024.10.06-06.04.23:270][774]LogStaticMesh:   Total GPU size: 513420 bytes, Total disk size: 367608 bytes.
+[2024.10.06-06.04.23:270][774]LogStaticMesh: Encode [0.02s]
+[2024.10.06-06.04.23:270][774]LogStaticMesh: Nanite build [1.94s]
+
+[2024.10.06-06.04.23:306][774]LogStaticMesh: Built static mesh [2.20s] /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.04.28:870][132]LogMeshUtilities: Finished distance field build in 5.5s - 105x98x105 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 77% occupied, 4765 triangles, MA_Building_1x1b
+[2024.10.06-06.05.06:910][391]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.06:911][391]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.07:589][404]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.07:590][404]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.08:310][468]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.08:310][468]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.08:773][509]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.08:773][509]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.09:478][561]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.09:478][561]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.10:072][614]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.10:072][614]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.10:506][650]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.10:506][650]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.10:814][652]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.10:814][652]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.11:084][654]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.11:084][654]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.11:320][669]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.11:320][669]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.11:685][703]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.11:685][703]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.12:057][731]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.12:057][731]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.12:334][754]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.12:334][754]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.12:652][778]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.12:652][778]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.12:973][804]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.12:973][804]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.13:281][827]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.13:281][827]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.13:600][855]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.13:600][855]LogEditorTransaction: Undo Move Elements
+[2024.10.06-06.05.13:885][883]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.13:885][883]LogEditorTransaction: Undo Move Elements
+[2024.10.06-06.05.14:170][909]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.14:170][909]LogEditorTransaction: Undo Move Elements
+[2024.10.06-06.05.14:522][912]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.14:522][912]LogEditorTransaction: Undo Move Elements
+[2024.10.06-06.05.14:942][936]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.14:942][936]LogEditorTransaction: Undo Create Actor
+[2024.10.06-06.05.15:405][977]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.15:405][977]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.15:829][ 18]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.15:829][ 18]LogEditorTransaction: Undo Create Actors
+[2024.10.06-06.05.16:877][129]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.16:878][129]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.17:521][195]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.17:521][195]LogEditorTransaction: Undo Move Elements
+[2024.10.06-06.05.18:404][292]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.18:404][292]LogEditorTransaction: Undo Move Elements
+[2024.10.06-06.05.20:914][497]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.20:914][497]LogEditorTransaction: Undo Create Actors
+[2024.10.06-06.05.21:343][527]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.21:343][527]LogEditorTransaction: Undo Create Actors
+[2024.10.06-06.05.22:144][609]Cmd: TRANSACTION UNDO
+[2024.10.06-06.05.22:144][609]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.06-06.05.24:526][824]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.24:526][824]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.28:361][147]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.28:361][147]LogEditorTransaction: Redo Create Actors
+[2024.10.06-06.05.28:895][151]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.28:895][151]LogEditorTransaction: Redo Create Actors
+[2024.10.06-06.05.29:221][167]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.29:221][167]LogEditorTransaction: Redo Move Elements
+[2024.10.06-06.05.29:589][207]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.29:589][207]LogEditorTransaction: Redo Move Elements
+[2024.10.06-06.05.29:896][237]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.29:896][237]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.30:310][273]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.30:310][273]LogEditorTransaction: Redo Create Actors
+[2024.10.06-06.05.30:773][317]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.30:773][317]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.31:510][391]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.31:510][391]LogEditorTransaction: Redo Create Actor
+[2024.10.06-06.05.31:979][429]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.31:979][429]LogEditorTransaction: Redo Move Elements
+[2024.10.06-06.05.33:104][484]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.33:104][484]LogEditorTransaction: Redo Move Elements
+[2024.10.06-06.05.33:360][498]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.33:360][498]LogEditorTransaction: Redo Move Elements
+[2024.10.06-06.05.33:679][520]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.33:679][520]LogEditorTransaction: Redo Move Elements
+[2024.10.06-06.05.33:913][544]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.33:913][544]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.34:124][557]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.34:124][557]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.35:800][684]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.35:800][684]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.36:145][687]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.36:145][687]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.36:397][689]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.36:397][689]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.39:462][960]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.39:462][960]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.39:661][961]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.39:661][961]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.39:826][962]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.39:826][962]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.40:011][963]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.40:011][963]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.40:198][964]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.40:198][964]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.40:344][966]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.40:344][966]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.40:482][971]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.40:482][971]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.40:656][979]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.40:656][979]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.40:841][988]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.40:841][988]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.41:001][992]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.41:001][992]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.41:340][ 20]Cmd: TRANSACTION REDO
+[2024.10.06-06.05.41:341][ 20]LogEditorTransaction: Redo Clicking on Elements
+[2024.10.06-06.05.46:672][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.05.46:672][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.05.46:674][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_12
+[2024.10.06-06.06.31:608][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.31:608][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.31:611][459]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_12
+[2024.10.06-06.06.31:613][459]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_12
+[2024.10.06-06.06.34:911][766]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.34:911][766]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.34:914][766]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_13
+[2024.10.06-06.06.34:916][766]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_13
+[2024.10.06-06.06.38:255][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.38:255][ 92]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.38:259][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_14
+[2024.10.06-06.06.38:260][ 92]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_14
+[2024.10.06-06.06.42:890][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.42:890][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.42:892][544]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_15
+[2024.10.06-06.06.42:894][544]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_15
+[2024.10.06-06.06.46:033][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.46:035][838]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.StaticMeshActor_12
+[2024.10.06-06.06.46:050][838]EditorErrors: New page: Actor Reattachment
+[2024.10.06-06.06.47:886][ 48]Cmd: TRANSACTION UNDO
+[2024.10.06-06.06.47:886][ 48]LogEditorTransaction: Undo Replace Actor(s)
+[2024.10.06-06.06.51:248][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.06.51:250][331]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.StaticMeshActor_1
+[2024.10.06-06.06.51:263][331]EditorErrors: New page: Actor Reattachment
+[2024.10.06-06.06.52:830][511]Cmd: TRANSACTION UNDO
+[2024.10.06-06.06.52:830][511]LogEditorTransaction: Undo Replace Actor(s)
+[2024.10.06-06.06.58:013][848]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.06.58:013][848]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.06.58:014][848]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_15
+[2024.10.06-06.07.26:891][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.07.26:891][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.07.26:892][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_18
+[2024.10.06-06.07.44:872][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack_C
+[2024.10.06-06.07.44:872][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack_C
+[2024.10.06-06.07.44:874][539]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/part2level.part2level:PersistentLevel.BP_HealthPack_C_2
+[2024.10.06-06.07.44:878][539]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.BP_HealthPack as actor: BP_HealthPack_C /Game/part2level.part2level:PersistentLevel.BP_HealthPack_C_2
+[2024.10.06-06.07.56:241][402]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.06-06.07.56:251][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-06.07.56:251][402]PIE: New page: PIE session: part2level (Oct 5, 2024, 8:07:56 PM)
+[2024.10.06-06.07.56:251][402]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_part2level
+[2024.10.06-06.07.56:258][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006895s)
+[2024.10.06-06.07.56:258][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/part2level.part2level to /Game/UEDPIE_0_part2level.part2level (0.006941s)
+[2024.10.06-06.07.56:258][402]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.07.56:258][402]LogAIModule: Creating AISystem for world part2level
+[2024.10.06-06.07.56:259][402]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2024.10.06-06.07.56:345][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.06-06.07.56:349][402]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.10.06-06.07.56:349][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-06.07.56:349][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-06.07.56:350][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-06.07.56:350][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-06.07.56:350][402]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-06.07.56:350][402]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-06.07.56:350][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-06.07.56:350][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-06.07.56:350][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-06.07.56:350][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-06.07.56:350][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-06.07.56:353][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-06.07.56:370][402]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.10.06-06.07.56:371][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-06.07.56:371][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-06.07.56:371][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-06.07.56:372][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.10.06-06.07.56:372][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.10.06-06.07.56:374][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.10.06-06.07.56:374][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.10.06-06.07.56:374][402]LogInit: FAudioDevice initialized.
+[2024.10.06-06.07.56:374][402]LogAudio: Display: Audio Device (ID: 26) registered with world 'part2level'.
+[2024.10.06-06.07.56:377][402]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.10.06-06.07.56:381][402]LogWorld: Bringing World /Game/UEDPIE_0_part2level.part2level up for play (max tick rate 0) at 2024.10.06-01.07.56
+[2024.10.06-06.07.56:381][402]LogWorld: Bringing up level for play took: 0.003898
+[2024.10.06-06.07.56:384][402]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.10.06-06.07.56:387][402]PIE: Server logged in
+[2024.10.06-06.07.56:388][402]PIE: Play in editor total start time 0.137 seconds.
+[2024.10.06-06.08.31:490][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.08.31:491][578]LogWorld: BeginTearingDown for /Game/UEDPIE_0_part2level
+[2024.10.06-06.08.31:491][578]LogWorld: UWorld::CleanupWorld for part2level, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.08.31:491][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.08.31:495][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-06.08.31:502][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.08.31:540][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.08.31:541][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.06-06.08.31:542][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.06-06.08.31:551][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.06-06.08.31:592][579]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.10.06-06.08.33:229][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-06.08.33:305][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/part2level" FILE="../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.06-06.08.33:347][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.06-06.08.33:372][770]LogSavePackage: Moving output files for package: /Game/part2level
+[2024.10.06-06.08.33:374][770]LogSavePackage: Moving '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Saved/part2level9E8A23284CF9E1A621A20E9A0CCB92EC.tmp' to '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap'
+[2024.10.06-06.08.33:390][770]LogFileHelpers: Saving map 'part2level' took 0.086
+[2024.10.06-06.08.33:415][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 14.2 sec)
+[2024.10.06-06.08.33:424][770]AssetCheck: New page: Asset Save: part2level
+[2024.10.06-06.08.33:424][770]LogContentValidation: Display: Validating /Script/Engine.World /Game/part2level.part2level
+[2024.10.06-06.08.39:345][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.06-06.08.41:555][413]LogSlate: Window 'Save Content' being destroyed
+[2024.10.06-06.08.41:562][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-06.08.41:670][413]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Game
+[2024.10.06-06.08.41:671][413]LogSavePackage: Moving '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Saved/BP_HourOfCode_Game2103E7224631784F1F46AC81A08A5059.tmp' to '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Game.uasset'
+[2024.10.06-06.08.41:681][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 14.3 sec)
+[2024.10.06-06.08.41:681][413]Cmd: MAP LOAD FILE="../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/DrewLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.10.06-06.08.41:682][413]LightingResults: New page: Lighting Build
+[2024.10.06-06.08.41:682][413]LoadErrors: New page: Loading map: DrewLevel.umap
+[2024.10.06-06.08.41:685][413]LogWorld: UWorld::CleanupWorld for part2level, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.08.41:685][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.08.41:685][413]MapCheck: New page: Map Check
+[2024.10.06-06.08.41:685][413]LightingResults: New page: Lighting Build
+[2024.10.06-06.08.41:724][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-06.08.41:731][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.06-06.08.41:770][413]LogAudio: Display: Audio Device (ID: 1) registered with world 'DrewLevel'.
+[2024.10.06-06.08.41:770][413]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.08.41:771][413]LogAIModule: Creating AISystem for world DrewLevel
+[2024.10.06-06.08.44:328][413]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.06-06.08.44:380][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.06-06.08.44:394][413]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.06-06.08.44:394][413]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2024.10.06-06.08.44:394][413]LogFileHelpers: Loading map 'DrewLevel' took 2.712
+[2024.10.06-06.08.44:394][413]LogSlate: Window 'Open Level' being destroyed
+[2024.10.06-06.08.44:411][413]AssetCheck: New page: Asset Save: BP_HourOfCode_Game
+[2024.10.06-06.08.44:411][413]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Game.BP_HourOfCode_Game
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh1': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh2': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh3': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh4': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:411][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh5': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_3
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh1': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh2': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh3': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh4': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh5': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_4
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh1': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh2': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh3': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh4': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.44:412][413]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh5': BP_Mortar_C /Game/DrewLevel.DrewLevel:PersistentLevel.BP_Mortar_C_5
+[2024.10.06-06.08.49:385][942]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.BP_Robot_MASTER_C_0.NODE_AddPhysicsConstraintComponent-1' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.06-06.08.49:385][942]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.BP_Robot_MASTER_C_0.NODE_AddPhysicsConstraintComponent-1_0' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.06-06.08.49:385][942]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.BP_Robot_MASTER_C_0.NODE_AddPhysicsConstraintComponent-1' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.06-06.08.49:385][942]PIE: Warning: Constraint in '/Engine/Transient.World_12:PersistentLevel.BP_Robot_MASTER_C_0.NODE_AddPhysicsConstraintComponent-1_0' attempting to create a joint between objects that are both static.  No joint created.
+[2024.10.06-06.08.52:020][225]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/DrewLevel.DrewLevel:PersistentLevel.DrewLevel
+[2024.10.06-06.08.52:021][225]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.09.05:181][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.06-06.09.05:190][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-06.09.05:190][587]PIE: New page: PIE session: DrewLevel (Oct 5, 2024, 8:09:05 PM)
+[2024.10.06-06.09.05:191][587]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_DrewLevel
+[2024.10.06-06.09.05:223][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031674s)
+[2024.10.06-06.09.05:223][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DrewLevel.DrewLevel to /Game/UEDPIE_0_DrewLevel.DrewLevel (0.031721s)
+[2024.10.06-06.09.05:223][587]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.09.05:223][587]LogAIModule: Creating AISystem for world DrewLevel
+[2024.10.06-06.09.05:224][587]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2024.10.06-06.09.05:280][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.10.06-06.09.05:281][587]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-06.09.05:281][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-06.09.05:281][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-06.09.05:282][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-06.09.05:282][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-06.09.05:282][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-06.09.05:285][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-06.09.05:298][587]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.10.06-06.09.05:299][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-06.09.05:299][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-06.09.05:299][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-06.09.05:300][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.10.06-06.09.05:300][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.10.06-06.09.05:302][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.10.06-06.09.05:302][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.10.06-06.09.05:302][587]LogInit: FAudioDevice initialized.
+[2024.10.06-06.09.05:302][587]LogAudio: Display: Audio Device (ID: 27) registered with world 'DrewLevel'.
+[2024.10.06-06.09.05:305][587]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.10.06-06.09.05:318][587]LogWorld: Bringing World /Game/UEDPIE_0_DrewLevel.DrewLevel up for play (max tick rate 0) at 2024.10.06-01.09.05
+[2024.10.06-06.09.07:807][587]LogWorld: Bringing up level for play took: 2.501823
+[2024.10.06-06.09.07:810][587]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.10.06-06.09.07:813][587]PIE: Server logged in
+[2024.10.06-06.09.07:814][587]PIE: Play in editor total start time 2.623 seconds.
+[2024.10.06-06.09.14:799][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.09.14:799][142]LogWorld: BeginTearingDown for /Game/UEDPIE_0_DrewLevel
+[2024.10.06-06.09.14:800][142]LogWorld: UWorld::CleanupWorld for DrewLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.09.14:802][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.09.14:806][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-06.09.14:813][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.09.14:865][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-06.09.14:865][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.10.06-06.09.14:867][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.10.06-06.09.14:871][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.09.14:877][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.06-06.09.14:914][143]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.10.06-06.09.27:940][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.06-06.09.27:942][597]Cmd: MAP LOAD FILE="../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.10.06-06.09.27:942][597]LightingResults: New page: Lighting Build
+[2024.10.06-06.09.27:942][597]LoadErrors: New page: Loading map: part2level.umap
+[2024.10.06-06.09.27:969][597]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.09.27:969][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.09.28:017][597]LogWorld: UWorld::CleanupWorld for DrewLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.09.28:018][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.09.28:018][597]MapCheck: New page: Map Check
+[2024.10.06-06.09.28:018][597]LightingResults: New page: Lighting Build
+[2024.10.06-06.09.28:059][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-06.09.28:065][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.06-06.09.28:077][597]LogAudio: Display: Audio Device (ID: 1) registered with world 'part2level'.
+[2024.10.06-06.09.28:077][597]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.09.28:077][597]LogAIModule: Creating AISystem for world part2level
+[2024.10.06-06.09.28:103][597]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.06-06.09.28:147][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.06-06.09.28:160][597]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.06-06.09.28:160][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2024.10.06-06.09.28:161][597]LogFileHelpers: Loading map 'part2level' took 0.219
+[2024.10.06-06.09.28:161][597]LogSlate: Window 'Open Level' being destroyed
+[2024.10.06-06.10.06:825][444]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2024.10.06-06.10.06:826][444]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/part2level.part2level:PersistentLevel.StaticMeshActor_1
+[2024.10.06-06.10.06:856][444]EditorErrors: New page: Actor Reattachment
+[2024.10.06-06.10.19:979][781]LogEditorViewport: Clicking Background
+[2024.10.06-06.10.20:923][885]Cmd: TRANSACTION UNDO
+[2024.10.06-06.10.20:923][885]LogEditorTransaction: Undo Clicking Background
+[2024.10.06-06.10.22:885][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-06.10.22:965][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/part2level" FILE="../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.06-06.10.23:008][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.06-06.10.23:036][ 53]LogSavePackage: Moving output files for package: /Game/part2level
+[2024.10.06-06.10.23:037][ 53]LogSavePackage: Moving '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Saved/part2levelEADFD7FC4E1276DC2C7222AC91471A8A.tmp' to '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap'
+[2024.10.06-06.10.23:053][ 53]LogFileHelpers: Saving map 'part2level' took 0.088
+[2024.10.06-06.10.23:061][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 14.5 sec)
+[2024.10.06-06.10.23:070][ 53]AssetCheck: New page: Asset Save: part2level
+[2024.10.06-06.10.23:070][ 53]LogContentValidation: Display: Validating /Script/Engine.World /Game/part2level.part2level
+[2024.10.06-06.10.26:151][415]LogEditorViewport: Clicking Background
+[2024.10.06-06.10.26:377][431]Cmd: TRANSACTION UNDO
+[2024.10.06-06.10.26:377][431]LogEditorTransaction: Undo Clicking Background
+[2024.10.06-06.11.03:049][338]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.10.06-06.11.03:049][338]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.10.06-06.11.03:050][338]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/part2level.part2level:PersistentLevel.NavMeshBoundsVolume_0
+[2024.10.06-06.11.03:052][338]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/part2level.part2level:PersistentLevel.NavMeshBoundsVolume_0
+[2024.10.06-06.11.03:160][339]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.11.15:418][606]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.11.22:209][269]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.11.25:964][549]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.11.48:541][868]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.11.54:182][348]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.11.57:851][658]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.00:943][885]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.04:829][181]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.14:351][714]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.25:061][377]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.26:812][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.06-06.12.26:822][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-06.12.26:822][578]PIE: New page: PIE session: part2level (Oct 5, 2024, 8:12:26 PM)
+[2024.10.06-06.12.26:822][578]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_part2level
+[2024.10.06-06.12.26:829][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007068s)
+[2024.10.06-06.12.26:829][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/part2level.part2level to /Game/UEDPIE_0_part2level.part2level (0.007111s)
+[2024.10.06-06.12.26:829][578]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.12.26:829][578]LogAIModule: Creating AISystem for world part2level
+[2024.10.06-06.12.26:830][578]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2024.10.06-06.12.26:877][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.06-06.12.26:881][578]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-06.12.26:881][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-06.12.26:881][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-06.12.26:882][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-06.12.26:882][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-06.12.26:882][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-06.12.26:884][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-06.12.26:902][578]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.10.06-06.12.26:903][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-06.12.26:903][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-06.12.26:903][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-06.12.26:904][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.10.06-06.12.26:904][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.10.06-06.12.26:906][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.10.06-06.12.26:906][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.10.06-06.12.26:906][578]LogInit: FAudioDevice initialized.
+[2024.10.06-06.12.26:906][578]LogAudio: Display: Audio Device (ID: 28) registered with world 'part2level'.
+[2024.10.06-06.12.26:909][578]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.10.06-06.12.26:912][578]LogWorld: Bringing World /Game/UEDPIE_0_part2level.part2level up for play (max tick rate 0) at 2024.10.06-01.12.26
+[2024.10.06-06.12.26:913][578]LogWorld: Bringing up level for play took: 0.003994
+[2024.10.06-06.12.26:915][578]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.10.06-06.12.26:920][578]PIE: Server logged in
+[2024.10.06-06.12.26:920][578]PIE: Play in editor total start time 0.099 seconds.
+[2024.10.06-06.12.29:401][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.12.29:401][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_part2level
+[2024.10.06-06.12.29:401][851]LogWorld: UWorld::CleanupWorld for part2level, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.12.29:402][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.12.29:406][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-06.12.29:412][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.12.29:455][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-06.12.29:455][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.10.06-06.12.29:457][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.10.06-06.12.29:462][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.12.29:465][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.06-06.12.29:522][852]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.10.06-06.12.38:768][505]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.40:070][556]LogEditorViewport: Clicking Background
+[2024.10.06-06.12.45:409][182]Cmd: DELETE
+[2024.10.06-06.12.45:409][182]Cmd: ACTOR DELETE
+[2024.10.06-06.12.45:411][182]LogEditorActor: Deleted Actor: BlockingVolume
+[2024.10.06-06.12.45:454][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.06-06.12.45:458][182]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.10.06-06.12.45:628][190]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.12.47:396][387]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.06-06.12.47:406][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-06.12.47:406][387]PIE: New page: PIE session: part2level (Oct 5, 2024, 8:12:47 PM)
+[2024.10.06-06.12.47:406][387]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_part2level
+[2024.10.06-06.12.47:412][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006559s)
+[2024.10.06-06.12.47:412][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/part2level.part2level to /Game/UEDPIE_0_part2level.part2level (0.006601s)
+[2024.10.06-06.12.47:413][387]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.12.47:413][387]LogAIModule: Creating AISystem for world part2level
+[2024.10.06-06.12.47:413][387]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2024.10.06-06.12.47:454][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.06-06.12.47:455][387]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-06.12.47:455][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-06.12.47:455][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-06.12.47:456][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-06.12.47:456][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-06.12.47:456][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-06.12.47:459][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-06.12.47:472][387]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.10.06-06.12.47:472][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-06.12.47:472][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-06.12.47:472][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-06.12.47:473][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.10.06-06.12.47:473][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.10.06-06.12.47:475][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.10.06-06.12.47:475][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.10.06-06.12.47:475][387]LogInit: FAudioDevice initialized.
+[2024.10.06-06.12.47:475][387]LogAudio: Display: Audio Device (ID: 29) registered with world 'part2level'.
+[2024.10.06-06.12.47:479][387]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.10.06-06.12.47:482][387]LogWorld: Bringing World /Game/UEDPIE_0_part2level.part2level up for play (max tick rate 0) at 2024.10.06-01.12.47
+[2024.10.06-06.12.47:482][387]LogWorld: Bringing up level for play took: 0.004097
+[2024.10.06-06.12.47:485][387]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.06-06.12.47:490][387]PIE: Server logged in
+[2024.10.06-06.12.47:491][387]PIE: Play in editor total start time 0.084 seconds.
+[2024.10.06-06.13.04:842][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.13.04:842][404]LogWorld: BeginTearingDown for /Game/UEDPIE_0_part2level
+[2024.10.06-06.13.04:842][404]LogWorld: UWorld::CleanupWorld for part2level, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.13.04:842][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.13.04:846][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-06.13.04:852][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.13.04:892][404]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-06.13.04:892][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.10.06-06.13.04:894][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.10.06-06.13.04:899][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.13.04:903][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.06-06.13.04:935][405]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.06-06.13.43:725][864]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.06-06.13.43:736][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-06.13.43:736][864]PIE: New page: PIE session: part2level (Oct 5, 2024, 8:13:43 PM)
+[2024.10.06-06.13.43:736][864]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_part2level
+[2024.10.06-06.13.43:742][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006373s)
+[2024.10.06-06.13.43:742][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/part2level.part2level to /Game/UEDPIE_0_part2level.part2level (0.006412s)
+[2024.10.06-06.13.43:743][864]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.13.43:743][864]LogAIModule: Creating AISystem for world part2level
+[2024.10.06-06.13.43:743][864]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2024.10.06-06.13.43:786][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.06-06.13.43:788][864]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-06.13.43:788][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-06.13.43:788][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-06.13.43:789][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-06.13.43:789][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-06.13.43:789][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-06.13.43:792][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-06.13.43:806][864]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.10.06-06.13.43:806][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-06.13.43:806][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-06.13.43:806][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-06.13.43:807][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.10.06-06.13.43:807][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.10.06-06.13.43:809][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.10.06-06.13.43:809][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.10.06-06.13.43:809][864]LogInit: FAudioDevice initialized.
+[2024.10.06-06.13.43:809][864]LogAudio: Display: Audio Device (ID: 30) registered with world 'part2level'.
+[2024.10.06-06.13.43:812][864]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.10.06-06.13.43:816][864]LogWorld: Bringing World /Game/UEDPIE_0_part2level.part2level up for play (max tick rate 0) at 2024.10.06-01.13.43
+[2024.10.06-06.13.43:816][864]LogWorld: Bringing up level for play took: 0.003949
+[2024.10.06-06.13.43:819][864]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.10.06-06.13.43:822][864]PIE: Server logged in
+[2024.10.06-06.13.43:823][864]PIE: Play in editor total start time 0.088 seconds.
+[2024.10.06-06.14.05:931][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.14.05:931][489]LogWorld: BeginTearingDown for /Game/UEDPIE_0_part2level
+[2024.10.06-06.14.05:932][489]LogWorld: UWorld::CleanupWorld for part2level, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.14.05:932][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.14.05:936][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-06.14.05:943][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.14.05:982][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.14.05:983][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.10.06-06.14.05:984][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.10.06-06.14.05:992][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.06-06.14.06:042][490]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.10.06-06.20.20:905][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.20.20:905][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.20.20:905][704]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_2
+[2024.10.06-06.20.24:630][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.20.24:630][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b
+[2024.10.06-06.20.24:631][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_1x1b.MA_Building_1x1b as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_6
+[2024.10.06-06.20.24:721][924]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.20.46:002][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.06-06.20.46:008][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-06.20.46:059][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/part2level" FILE="../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.06-06.20.46:098][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.10.06-06.20.46:125][418]LogSavePackage: Moving output files for package: /Game/part2level
+[2024.10.06-06.20.46:126][418]LogSavePackage: Moving '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Saved/part2levelF1D5B11E49EE76DF508E2AB3A397B9FE.tmp' to '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap'
+[2024.10.06-06.20.46:142][418]LogFileHelpers: Saving map 'part2level' took 0.084
+[2024.10.06-06.20.46:168][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 14.6 sec)
+[2024.10.06-06.20.46:179][418]AssetCheck: New page: Asset Save: part2level
+[2024.10.06-06.20.46:179][418]LogContentValidation: Display: Validating /Script/Engine.World /Game/part2level.part2level
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: ================================================
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Total job queries 230, among them cache hits 37 (16.09%)
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Tracking 193 distinct input hashes that result in 140 distinct outputs (72.54%)
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: RAM used: 0.53 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Shaders Compiled: 88
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Jobs assigned 88, completed 88 (100.00%)
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Average time worker was idle: 111.72 s
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Time job spent in pending queue: average 5.53 s, longest 35.80 s
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Job execution time: average 14.74 s, max 66.02 s
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Job life time (pending + execution): average 20.27 s, max 68.18
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.81 s
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.63 jobs/batch
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Average processing rate: 1.09 jobs/sec
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Total thread time: 208.19 s
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Total thread preprocess time: 5.85 s
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Percentage time preprocessing: 2.81%
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 7.54 sec, max 7.54 sec, min 7.54 sec)
+[2024.10.06-06.21.34:157][348]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.73 sec, max 10.05 sec, min 3.28 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.07 sec, max 6.07 sec, min 6.07 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 6.06 sec, max 6.06 sec, min 6.06 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 54.93% of total time (compiled   17 times, average 6.73 sec, max 10.05 sec, min 3.28 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.53% of total time (compiled   11 times, average 1.05 sec, max 2.02 sec, min 0.78 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.28% of total time (compiled   11 times, average 1.00 sec, max 1.91 sec, min 0.67 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 3.94% of total time (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.62% of total time (compiled    1 times, average 7.54 sec, max 7.54 sec, min 7.54 sec)
+[2024.10.06-06.21.34:158][348]LogShaderCompilers: Display: ================================================
+[2024.10.06-06.21.42:050][105]LogStaticMesh: Display: Building static mesh SM_KitGround_Cobblestone...
+[2024.10.06-06.21.42:050][105]LogStaticMesh: Display: Building static mesh SM_KitGround_Cobblestone_Corner...
+[2024.10.06-06.21.42:077][105]LogStaticMesh: Adjacency [0.00s], tris: 1718, UVs 2
+[2024.10.06-06.21.42:089][105]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2024.10.06-06.21.42:089][105]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.21.42:091][105]LogStaticMesh: Adjacency [0.00s], tris: 1922, UVs 2
+[2024.10.06-06.21.42:104][105]LogStaticMesh: Clustering [0.01s]. Ratio: 1.375000
+[2024.10.06-06.21.42:104][105]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.21.42:164][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c_C
+[2024.10.06-06.21.42:164][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c_C
+[2024.10.06-06.21.42:179][105]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c as actor: BP_FloatIsland_c_C /Game/part2level.part2level:PersistentLevel.BP_FloatIsland_c_C_0
+[2024.10.06-06.21.42:190][105]LogStaticMesh: Reduce [0.10s]
+[2024.10.06-06.21.42:197][105]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c as actor: BP_FloatIsland_c_C /Game/part2level.part2level:PersistentLevel.BP_FloatIsland_c_C_0
+[2024.10.06-06.21.42:205][105]LogStaticMesh: Fallback 0/5 [0.01s], num tris: 1716
+[2024.10.06-06.21.42:230][105]LogStaticMesh: Reduce [0.13s]
+[2024.10.06-06.21.42:247][105]LogStaticMesh: Fallback 0/4 [0.02s], num tris: 1920
+[2024.10.06-06.21.42:283][105]LogStaticMesh: Fallback 1/5 [0.08s], num tris: 858
+[2024.10.06-06.21.42:333][106]LogStaticMesh: Fallback 1/4 [0.09s], num tris: 960
+[2024.10.06-06.21.42:385][106]LogStaticMesh: Fallback 2/5 [0.10s], num tris: 428
+[2024.10.06-06.21.42:444][107]LogStaticMesh: Fallback 2/4 [0.11s], num tris: 480
+[2024.10.06-06.21.42:494][107]LogStaticMesh: Fallback 3/5 [0.11s], num tris: 214
+[2024.10.06-06.21.42:535][108]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Concrete_BC.T_EnvTile_Concrete_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.42:558][108]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Concrete_ARM.T_EnvTile_Concrete_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.42:581][109]LogStaticMesh: Fallback 3/4 [0.14s], num tris: 240
+[2024.10.06-06.21.42:590][109]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.21.42:590][109]LogStaticMesh:   Input: 37 Clusters, 3812 Triangles and 3993 Vertices
+[2024.10.06-06.21.42:590][109]LogStaticMesh:   Output without splits: 37 Clusters, 3812 Triangles and 3994 Vertices
+[2024.10.06-06.21.42:590][109]LogStaticMesh:   Output with splits: 37 Clusters, 3812 Triangles and 3994 Vertices
+[2024.10.06-06.21.42:590][109]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 37, Slow Path Clusters: 0, 1 Material: 37, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.10.06-06.21.42:593][109]LogStaticMesh: WritePages:
+[2024.10.06-06.21.42:593][109]LogStaticMesh:   Root: GPU size: 32240 bytes. 1 Pages. 32240.000 bytes per page (98.389% utilization).
+[2024.10.06-06.21.42:593][109]LogStaticMesh:   Streaming: GPU size: 32576 bytes. 1 Pages (1 with relative encoding). 32576.000 bytes per page (24.854% utilization).
+[2024.10.06-06.21.42:593][109]LogStaticMesh:   Page data disk size: 53404 bytes. Fixup data size: 264 bytes.
+[2024.10.06-06.21.42:593][109]LogStaticMesh:   Total GPU size: 64816 bytes, Total disk size: 53668 bytes.
+[2024.10.06-06.21.42:593][109]LogStaticMesh: Encode [0.01s]
+[2024.10.06-06.21.42:593][109]LogStaticMesh: Nanite build [0.49s]
+
+[2024.10.06-06.21.42:606][109]LogStaticMesh: Built static mesh [0.56s] /Game/LearningKit_Games/Assets/Environment/KitGround/SM_KitGround_Cobblestone.SM_KitGround_Cobblestone
+[2024.10.06-06.21.42:611][109]LogStaticMesh: Display: Building static mesh SM_KitGround_GrassMound...
+[2024.10.06-06.21.42:619][109]LogStaticMesh: Fallback 4/5 [0.13s], num tris: 106
+[2024.10.06-06.21.42:621][109]LogStaticMesh: Adjacency [0.00s], tris: 618, UVs 2
+[2024.10.06-06.21.42:625][109]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.10.06-06.21.42:625][109]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.21.42:628][109]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.21.42:628][109]LogStaticMesh:   Input: 28 Clusters, 3482 Triangles and 3600 Vertices
+[2024.10.06-06.21.42:628][109]LogStaticMesh:   Output without splits: 28 Clusters, 3482 Triangles and 3600 Vertices
+[2024.10.06-06.21.42:628][109]LogStaticMesh:   Output with splits: 28 Clusters, 3482 Triangles and 3600 Vertices
+[2024.10.06-06.21.42:629][109]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 28, Slow Path Clusters: 0, 1 Material: 28, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.10.06-06.21.42:631][109]LogStaticMesh: WritePages:
+[2024.10.06-06.21.42:631][109]LogStaticMesh:   Root: GPU size: 31596 bytes. 1 Pages. 31596.000 bytes per page (96.423% utilization).
+[2024.10.06-06.21.42:631][109]LogStaticMesh:   Streaming: GPU size: 25332 bytes. 1 Pages (1 with relative encoding). 25332.000 bytes per page (19.327% utilization).
+[2024.10.06-06.21.42:631][109]LogStaticMesh:   Page data disk size: 46368 bytes. Fixup data size: 152 bytes.
+[2024.10.06-06.21.42:631][109]LogStaticMesh:   Total GPU size: 56928 bytes, Total disk size: 46520 bytes.
+[2024.10.06-06.21.42:631][109]LogStaticMesh: Encode [0.01s]
+[2024.10.06-06.21.42:631][109]LogStaticMesh: Nanite build [0.54s]
+
+[2024.10.06-06.21.42:647][109]LogStaticMesh: Built static mesh [0.60s] /Game/LearningKit_Games/Assets/Environment/KitGround/SM_KitGround_Cobblestone_Corner.SM_KitGround_Cobblestone_Corner
+[2024.10.06-06.21.42:663][110]LogStaticMesh: Reduce [0.04s]
+[2024.10.06-06.21.42:684][110]LogStaticMesh: Fallback 0/5 [0.02s], num tris: 352
+[2024.10.06-06.21.42:721][111]LogStaticMesh: Fallback 1/5 [0.04s], num tris: 176
+[2024.10.06-06.21.42:758][112]LogStaticMesh: Fallback 2/5 [0.04s], num tris: 88
+[2024.10.06-06.21.42:801][112]LogStaticMesh: Fallback 3/5 [0.04s], num tris: 64
+[2024.10.06-06.21.42:844][113]LogStaticMesh: Fallback 4/5 [0.04s], num tris: 64
+[2024.10.06-06.21.42:846][113]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.21.42:846][113]LogStaticMesh:   Input: 11 Clusters, 1372 Triangles and 1136 Vertices
+[2024.10.06-06.21.42:846][113]LogStaticMesh:   Output without splits: 11 Clusters, 1372 Triangles and 1161 Vertices
+[2024.10.06-06.21.42:846][113]LogStaticMesh:   Output with splits: 11 Clusters, 1372 Triangles and 1161 Vertices
+[2024.10.06-06.21.42:846][113]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 11, Slow Path Clusters: 0, 1 Material: 11, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.10.06-06.21.42:847][113]LogStaticMesh: WritePages:
+[2024.10.06-06.21.42:847][113]LogStaticMesh:   Root: GPU size: 20432 bytes. 1 Pages. 20432.000 bytes per page (62.354% utilization).
+[2024.10.06-06.21.42:847][113]LogStaticMesh:   Streaming: 0 bytes.
+[2024.10.06-06.21.42:847][113]LogStaticMesh:   Page data disk size: 14928 bytes. Fixup data size: 72 bytes.
+[2024.10.06-06.21.42:847][113]LogStaticMesh:   Total GPU size: 20432 bytes, Total disk size: 15000 bytes.
+[2024.10.06-06.21.42:847][113]LogStaticMesh: Encode [0.00s]
+[2024.10.06-06.21.42:847][113]LogStaticMesh: Nanite build [0.22s]
+
+[2024.10.06-06.21.42:856][113]LogStaticMesh: Built static mesh [0.25s] /Game/LearningKit_Games/Assets/Environment/KitGround/SM_KitGround_GrassMound.SM_KitGround_GrassMound
+[2024.10.06-06.21.43:421][123]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stone_ARM.T_EnvTile_Stone_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.44:307][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c_C
+[2024.10.06-06.21.44:307][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c_C
+[2024.10.06-06.21.44:331][151]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c as actor: BP_FloatIsland_c_C /Game/part2level.part2level:PersistentLevel.BP_FloatIsland_c_C_1
+[2024.10.06-06.21.44:356][151]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_c.BP_FloatIsland_c as actor: BP_FloatIsland_c_C /Game/part2level.part2level:PersistentLevel.BP_FloatIsland_c_C_1
+[2024.10.06-06.21.44:608][166]LogStaticMesh: Display: Building static mesh SM_KitGround_Sidewalk_Curb4Corner...
+[2024.10.06-06.21.44:617][167]LogStaticMesh: Adjacency [0.00s], tris: 492, UVs 2
+[2024.10.06-06.21.44:618][167]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.10.06-06.21.44:618][167]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.21.44:648][171]LogStaticMesh: Display: Building static mesh SM_PlanterBushA...
+[2024.10.06-06.21.44:659][172]LogStaticMesh: Reduce [0.04s]
+[2024.10.06-06.21.44:665][173]LogStaticMesh: Fallback 0/5 [0.01s], num tris: 490
+[2024.10.06-06.21.44:672][174]LogStaticMesh: Adjacency [0.00s], tris: 2228, UVs 2
+[2024.10.06-06.21.44:677][174]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.10.06-06.21.44:677][174]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.21.44:694][176]LogStaticMesh: Fallback 1/5 [0.03s], num tris: 244
+[2024.10.06-06.21.44:712][178]LogStaticMesh: Display: Building static mesh SM_TreeA...
+[2024.10.06-06.21.44:735][181]LogStaticMesh: Fallback 2/5 [0.04s], num tris: 122
+[2024.10.06-06.21.44:777][186]LogStaticMesh: Fallback 3/5 [0.04s], num tris: 64
+[2024.10.06-06.21.44:811][190]LogStaticMesh: Adjacency [0.01s], tris: 9788, UVs 2
+[2024.10.06-06.21.44:830][192]LogStaticMesh: Fallback 4/5 [0.05s], num tris: 64
+[2024.10.06-06.21.44:831][193]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Input: 7 Clusters, 870 Triangles and 901 Vertices
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Output without splits: 7 Clusters, 870 Triangles and 901 Vertices
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Output with splits: 7 Clusters, 870 Triangles and 901 Vertices
+[2024.10.06-06.21.44:832][193]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.10.06-06.21.44:832][193]LogStaticMesh: WritePages:
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Root: GPU size: 14504 bytes. 1 Pages. 14504.000 bytes per page (44.263% utilization).
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Streaming: 0 bytes.
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Page data disk size: 12032 bytes. Fixup data size: 56 bytes.
+[2024.10.06-06.21.44:832][193]LogStaticMesh:   Total GPU size: 14504 bytes, Total disk size: 12088 bytes.
+[2024.10.06-06.21.44:832][193]LogStaticMesh: Encode [0.00s]
+[2024.10.06-06.21.44:832][193]LogStaticMesh: Nanite build [0.21s]
+
+[2024.10.06-06.21.44:840][193]LogStaticMesh: Clustering [0.03s]. Ratio: 1.012987
+[2024.10.06-06.21.44:840][194]LogStaticMesh: Built static mesh [0.23s] /Game/LearningKit_Games/Assets/Environment/KitGround/SM_KitGround_Sidewalk_Curb4Corner.SM_KitGround_Sidewalk_Curb4Corner
+[2024.10.06-06.21.44:842][194]LogStaticMesh: Leaves [0.00s]
+[2024.10.06-06.21.44:917][202]LogStaticMesh: Reduce [0.24s]
+[2024.10.06-06.21.44:954][207]LogStaticMesh: Fallback 0/1 [0.04s], num tris: 1828
+[2024.10.06-06.21.44:958][207]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.21.44:958][207]LogStaticMesh:   Input: 38 Clusters, 4746 Triangles and 3489 Vertices
+[2024.10.06-06.21.44:958][207]LogStaticMesh:   Output without splits: 38 Clusters, 4746 Triangles and 3558 Vertices
+[2024.10.06-06.21.44:958][207]LogStaticMesh:   Output with splits: 38 Clusters, 4746 Triangles and 3558 Vertices
+[2024.10.06-06.21.44:958][207]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 38, Slow Path Clusters: 0, 1 Material: 11, 2 Materials: 21, 3 Materials: 6, At Least 4 Materials: 0
+[2024.10.06-06.21.44:960][208]LogStaticMesh: WritePages:
+[2024.10.06-06.21.44:960][208]LogStaticMesh:   Root: GPU size: 31580 bytes. 1 Pages. 31580.000 bytes per page (96.375% utilization).
+[2024.10.06-06.21.44:960][208]LogStaticMesh:   Streaming: GPU size: 30284 bytes. 1 Pages (1 with relative encoding). 30284.000 bytes per page (23.105% utilization).
+[2024.10.06-06.21.44:960][208]LogStaticMesh:   Page data disk size: 44760 bytes. Fixup data size: 296 bytes.
+[2024.10.06-06.21.44:961][208]LogStaticMesh:   Total GPU size: 61864 bytes, Total disk size: 45056 bytes.
+[2024.10.06-06.21.44:961][208]LogStaticMesh: Encode [0.01s]
+[2024.10.06-06.21.44:961][208]LogStaticMesh: Nanite build [0.28s]
+
+[2024.10.06-06.21.44:970][208]LogStaticMesh: Built static mesh [0.32s] /Game/LearningKit_Robots/StaticMeshes/WorldDecor/SM_PlanterBushA.SM_PlanterBushA
+[2024.10.06-06.21.45:130][221]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Leaves_ARM.T_EnvTile_Leaves_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.45:286][227]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Leaves_BC.T_EnvTile_Leaves_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.45:497][229]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stone_BC.T_EnvTile_Stone_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.45:583][229]LogStaticMesh: Reduce [0.74s]
+[2024.10.06-06.21.45:838][232]LogStaticMesh: Fallback 0/4 [0.25s], num tris: 2972
+[2024.10.06-06.21.46:230][243]LogStaticMesh: Fallback 1/4 [0.39s], num tris: 1485
+[2024.10.06-06.21.46:606][259]LogStaticMesh: Fallback 2/4 [0.38s], num tris: 742
+[2024.10.06-06.21.46:963][275]LogStaticMesh: Fallback 3/4 [0.36s], num tris: 371
+[2024.10.06-06.21.46:984][276]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.21.46:984][276]LogStaticMesh:   Input: 159 Clusters, 19987 Triangles and 13830 Vertices
+[2024.10.06-06.21.46:984][276]LogStaticMesh:   Output without splits: 159 Clusters, 19987 Triangles and 14248 Vertices
+[2024.10.06-06.21.46:984][276]LogStaticMesh:   Output with splits: 159 Clusters, 19987 Triangles and 14248 Vertices
+[2024.10.06-06.21.46:984][276]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 159, Slow Path Clusters: 0, 1 Material: 151, 2 Materials: 8, 3 Materials: 0, At Least 4 Materials: 0
+[2024.10.06-06.21.46:993][276]LogStaticMesh: WritePages:
+[2024.10.06-06.21.46:993][276]LogStaticMesh:   Root: GPU size: 31772 bytes. 1 Pages. 31772.000 bytes per page (96.960% utilization).
+[2024.10.06-06.21.46:993][276]LogStaticMesh:   Streaming: GPU size: 216536 bytes. 2 Pages (2 with relative encoding). 108268.000 bytes per page (82.602% utilization).
+[2024.10.06-06.21.46:993][276]LogStaticMesh:   Page data disk size: 180264 bytes. Fixup data size: 768 bytes.
+[2024.10.06-06.21.46:993][276]LogStaticMesh:   Total GPU size: 248308 bytes, Total disk size: 181032 bytes.
+[2024.10.06-06.21.46:993][276]LogStaticMesh: Encode [0.03s]
+[2024.10.06-06.21.46:993][276]LogStaticMesh: Nanite build [2.15s]
+
+[2024.10.06-06.21.47:010][277]LogStaticMesh: Built static mesh [2.30s] /Game/LearningKit_Robots/StaticMeshes/WorldDecor/SM_TreeA.SM_TreeA
+[2024.10.06-06.21.47:899][308]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Leaves_RGB.T_EnvTile_Leaves_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.48:438][330]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Leaves_N.T_EnvTile_Leaves_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.10.06-06.21.49:896][408]Cmd: DELETE
+[2024.10.06-06.21.49:896][408]Cmd: ACTOR DELETE
+[2024.10.06-06.21.49:901][408]LogEditorActor: Deleted Actor: BP_FloatIsland_c_C
+[2024.10.06-06.21.49:940][408]LogMeshUtilities: Finished distance field build in 1.9s - 63x49x77 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 75% occupied, 3262 triangles, SM_TreeA
+[2024.10.06-06.21.49:981][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.06-06.21.49:985][408]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2024.10.06-06.22.10:468][193]LogStaticMesh: Display: Building static mesh SM_FloatingIsland_S...
+[2024.10.06-06.22.10:594][195]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S
+[2024.10.06-06.22.10:594][195]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S
+[2024.10.06-06.22.10:594][195]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_7
+[2024.10.06-06.22.10:611][195]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S) ...
+[2024.10.06-06.22.11:273][195]LogStaticMesh: Built static mesh [0.81s] /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S
+[2024.10.06-06.22.12:853][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S
+[2024.10.06-06.22.12:853][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S
+[2024.10.06-06.22.12:855][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/Hour_of_Code/Static_Meshes/SM_FloatingIsland_S.SM_FloatingIsland_S as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_10
+[2024.10.06-06.22.16:305][507]LogMeshUtilities: Finished distance field build in 5.0s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 1367 triangles, SM_FloatingIsland_S
+[2024.10.06-06.22.53:280][201]LogEditorViewport: Clicking Background
+[2024.10.06-06.23.05:087][410]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.23.05:087][410]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.23.05:089][410]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_0
+[2024.10.06-06.23.05:091][410]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_0
+[2024.10.06-06.23.07:152][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.23.07:152][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.23.07:155][512]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_7
+[2024.10.06-06.23.07:157][512]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_7
+[2024.10.06-06.23.11:656][983]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.23.11:656][983]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward_C
+[2024.10.06-06.23.11:659][983]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_9
+[2024.10.06-06.23.11:660][983]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Pickups/BP_Reward.BP_Reward as actor: BP_Reward_C /Game/part2level.part2level:PersistentLevel.BP_Reward_C_9
+[2024.10.06-06.23.35:568][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M
+[2024.10.06-06.23.35:568][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M
+[2024.10.06-06.23.35:568][  7]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_13
+[2024.10.06-06.23.37:550][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M
+[2024.10.06-06.23.37:550][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M
+[2024.10.06-06.23.37:550][135]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_14
+[2024.10.06-06.23.38:293][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M
+[2024.10.06-06.23.38:293][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M
+[2024.10.06-06.23.38:294][175]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_M.SM_FloatingIsland_M as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_16
+[2024.10.06-06.23.38:395][177]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.24.18:140][404]LogStaticMesh: Display: Building static mesh MA_Building_2x3a...
+[2024.10.06-06.24.18:571][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a
+[2024.10.06-06.24.18:571][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a
+[2024.10.06-06.24.18:572][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_17
+[2024.10.06-06.24.18:590][427]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a) ...
+[2024.10.06-06.24.18:740][427]LogStaticMesh: Adjacency [0.01s], tris: 58279, UVs 2
+[2024.10.06-06.24.18:846][427]LogStaticMesh: Clustering [0.11s]. Ratio: 1.015351
+[2024.10.06-06.24.18:856][427]LogStaticMesh: Leaves [0.01s]
+[2024.10.06-06.24.20:288][427]LogStaticMesh: Reduce [1.43s]
+[2024.10.06-06.24.21:256][427]LogStaticMesh: Fallback 0/3 [0.97s], num tris: 29564
+[2024.10.06-06.24.21:647][427]LogStaticMesh: Fallback 1/3 [0.39s], num tris: 14782
+[2024.10.06-06.24.22:004][427]LogStaticMesh: Fallback 2/3 [0.36s], num tris: 7391
+[2024.10.06-06.24.22:038][427]LogStaticMesh: ConstrainClusters:
+[2024.10.06-06.24.22:038][427]LogStaticMesh:   Input: 949 Clusters, 119439 Triangles and 118658 Vertices
+[2024.10.06-06.24.22:038][427]LogStaticMesh:   Output without splits: 949 Clusters, 119439 Triangles and 119462 Vertices
+[2024.10.06-06.24.22:038][427]LogStaticMesh:   Output with splits: 957 Clusters, 119439 Triangles and 119462 Vertices
+[2024.10.06-06.24.22:039][427]LogStaticMesh: Material Stats - Unique Materials: 10, Fast Path Clusters: 936, Slow Path Clusters: 21, 1 Material: 791, 2 Materials: 111, 3 Materials: 34, At Least 4 Materials: 21
+[2024.10.06-06.24.22:074][427]LogStaticMesh: WritePages:
+[2024.10.06-06.24.22:074][427]LogStaticMesh:   Root: GPU size: 29080 bytes. 1 Pages. 29080.000 bytes per page (88.745% utilization).
+[2024.10.06-06.24.22:074][427]LogStaticMesh:   Streaming: GPU size: 1980056 bytes. 16 Pages (16 with relative encoding). 123753.500 bytes per page (94.416% utilization).
+[2024.10.06-06.24.22:074][427]LogStaticMesh:   Page data disk size: 1402136 bytes. Fixup data size: 6896 bytes.
+[2024.10.06-06.24.22:074][427]LogStaticMesh:   Total GPU size: 2009136 bytes, Total disk size: 1409032 bytes.
+[2024.10.06-06.24.22:074][427]LogStaticMesh: Encode [0.07s]
+[2024.10.06-06.24.22:074][427]LogStaticMesh: Nanite build [3.22s]
+
+[2024.10.06-06.24.22:208][427]LogStaticMesh: Built static mesh [4.07s] /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a
+[2024.10.06-06.24.29:718][158]LogMeshUtilities: Finished distance field build in 7.4s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 19426 triangles, MA_Building_2x3a
+[2024.10.06-06.24.31:743][306]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.24.32:004][316]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.24.32:228][329]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.24.32:751][381]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.24.33:096][415]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/part2level.part2level:PersistentLevel.RecastNavMesh-Default).
+[2024.10.06-06.24.33:487][458]LogEditorViewport: Clicking Background
+[2024.10.06-06.24.34:219][536]LogEditorViewport: Clicking Background
+[2024.10.06-06.24.34:701][587]LogEditorViewport: Clicking Background
+[2024.10.06-06.24.34:877][601]LogEditorViewport: Clicking Background
+[2024.10.06-06.24.35:334][646]LogEditorViewport: Clicking Background
+[2024.10.06-06.24.35:590][674]LogEditorViewport: Clicking Background
+[2024.10.06-06.24.36:534][781]Cmd: TRANSACTION UNDO
+[2024.10.06-06.24.36:534][781]LogEditorTransaction: Undo Clicking Background
+[2024.10.06-06.24.40:666][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a
+[2024.10.06-06.24.40:667][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a
+[2024.10.06-06.24.40:667][142]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x3a.MA_Building_2x3a as actor: StaticMeshActor /Game/part2level.part2level:PersistentLevel.StaticMeshActor_19
+[2024.10.06-06.24.50:289][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.06-06.24.50:299][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-06.24.50:299][990]PIE: New page: PIE session: part2level (Oct 5, 2024, 8:24:50 PM)
+[2024.10.06-06.24.50:299][990]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_part2level
+[2024.10.06-06.24.50:307][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007702s)
+[2024.10.06-06.24.50:307][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/part2level.part2level to /Game/UEDPIE_0_part2level.part2level (0.007760s)
+[2024.10.06-06.24.50:307][990]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.10.06-06.24.50:307][990]LogAIModule: Creating AISystem for world part2level
+[2024.10.06-06.24.50:308][990]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2024.10.06-06.24.50:357][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.06-06.24.50:362][990]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-06.24.50:362][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-06.24.50:362][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-06.24.50:362][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-06.24.50:362][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-06.24.50:362][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-06.24.50:365][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-06.24.50:384][990]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.10.06-06.24.50:384][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-06.24.50:385][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-06.24.50:385][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-06.24.50:386][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.10.06-06.24.50:386][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.10.06-06.24.50:387][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.10.06-06.24.50:387][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.10.06-06.24.50:387][990]LogInit: FAudioDevice initialized.
+[2024.10.06-06.24.50:387][990]LogAudio: Display: Audio Device (ID: 31) registered with world 'part2level'.
+[2024.10.06-06.24.50:391][990]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.10.06-06.24.50:395][990]LogWorld: Bringing World /Game/UEDPIE_0_part2level.part2level up for play (max tick rate 0) at 2024.10.06-01.24.50
+[2024.10.06-06.24.50:395][990]LogWorld: Bringing up level for play took: 0.004879
+[2024.10.06-06.24.50:398][990]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.10.06-06.24.50:402][990]PIE: Server logged in
+[2024.10.06-06.24.50:403][990]PIE: Play in editor total start time 0.103 seconds.
+[2024.10.06-06.25.19:744][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.25.19:744][454]LogWorld: BeginTearingDown for /Game/UEDPIE_0_part2level
+[2024.10.06-06.25.19:745][454]LogWorld: UWorld::CleanupWorld for part2level, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-06.25.19:745][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.25.19:749][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-06.25.19:756][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-06.25.19:795][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-06.25.19:796][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.10.06-06.25.19:797][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.10.06-06.25.19:803][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-06.25.19:807][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.06-06.25.19:857][455]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.10.06-06.25.24:118][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-06.25.24:216][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/part2level" FILE="../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.06-06.25.24:259][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.06-06.25.24:288][755]LogSavePackage: Moving output files for package: /Game/part2level
+[2024.10.06-06.25.24:289][755]LogSavePackage: Moving '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Saved/part2level5050C89C4769C12333689CAD81B23E86.tmp' to '../../../../../../Users/akdaly2/Documents/GitHub/CS-415-MP2/UnrealLearningKit2/Content/part2level.umap'
+[2024.10.06-06.25.24:305][755]LogFileHelpers: Saving map 'part2level' took 0.091
+[2024.10.06-06.25.24:321][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 14.8 sec)
+[2024.10.06-06.25.24:330][755]AssetCheck: New page: Asset Save: part2level
+[2024.10.06-06.25.24:330][755]LogContentValidation: Display: Validating /Script/Engine.World /Game/part2level.part2level
+[2024.10.06-06.25.29:509][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
